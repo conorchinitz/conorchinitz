@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conorchinitz
-- 👀 I’m interested in artificial intelligence, web/software development
-- 🌱 I’m currently learning JavaScript and React
+- 👀 I’m interested in web/software development and artificial intelligence
+- 🌱 I’m currently learning JavaScript, React, Vue
 
 <!---
 conorchinitz/conorchinitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
