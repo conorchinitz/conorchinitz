@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @conorchinitz
-- 👀 I’m interested in web/software development and artificial intelligence
-- 🌱 I’m currently a resident at Codesmith
+- 👋 Hi, I’m Conor.
+- 👀 I’m interested in web/software development and artificial intelligence.
+- 🌱 I’m currently a software engineering resident at Codesmith.
 
 <!---
 conorchinitz/conorchinitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
