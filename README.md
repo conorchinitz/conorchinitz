@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Conor.
-- 👀 I’m interested in web app development and artificial intelligence.
+- 👀 I like web development and artificial intelligence.
 - 🌱 I’m currently a software engineering resident at Codesmith.
 
 <!---
